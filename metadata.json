@@ -1,0 +1,6 @@
+{
+  "name": "RefPrompt AI",
+  "description": "Turn Any Image Into a Perfect AI Prompt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
